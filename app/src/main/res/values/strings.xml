@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HomeSearch</string>
+    <string name="title_activity_maps">HomeSearch</string>
+    <string name="map">Map</string>
+    <string name="list">List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_search1">Enter full postcode...</string>
+    <string name="search">Search</string>
+    <string name="camera">Camera</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_homesearch">Welcome to HomeSearch</string>
+    <string name="email_hint">Email...</string>
+    <string name="password_hint">Password...</string>
+    <string name="login_text">login</string>
+    <string name="or">Or</string>
+    <string name="create_account_text">create account</string>
+    <string name="username_hint">Username...</string>
+    <string name="postcode_hint">Postcode... (Optional)</string>
+    <string name="skip">do this later</string>
+    <string name="tagline">Helping you find your dream home</string>
+    <string name="sign_out">Sign out</string>
+    <string name="create_account_title">Create an Account</string>
+    <string name="welcome">Welcome</string>
+    <string name="snap_a_sign">Snap a Sign Button</string>
+    <string name="drop_a_pin">Drop a Pin Button</string>
+</resources>

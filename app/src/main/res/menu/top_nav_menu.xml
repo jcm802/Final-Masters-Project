@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/top_nav_logout"
+        android:title="@string/logout"
+        app:showAsAction="collapseActionView"
+        />
+
+    <item android:id="@+id/top_nav_search"
+        android:title="@string/search"
+        android:icon="@drawable/ic_baseline_search_24"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.SearchView" />
+    <item
+        android:id="@+id/top_nav_camera"
+        android:title="@string/camera"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_photo_camera_24"
+        />
+</menu>
