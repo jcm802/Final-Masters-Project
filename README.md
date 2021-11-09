@@ -10,4 +10,5 @@ Property search Android application prototype. Includes sign in, create account,
 ![](app_images/estate_agent_sign1.png)
 ![](app_images/estate_agent_sign2.png)
 ![](app_images/captured_text.png)
+
 Feature intended to help look up relevant property in an api
