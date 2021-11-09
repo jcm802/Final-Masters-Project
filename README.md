@@ -6,7 +6,8 @@ Property search Android application prototype. Includes sign in, create account,
 # Map and List View
 ![](app_images/map.png)
 ![](app_images/list.png)
-# Capture Real Estate Sign Text intended for lookup of relevant property in an api
+# Capture Real Estate Sign Text
 ![](app_images/estate_agent_sign1.png)
 ![](app_images/estate_agent_sign2.png)
 ![](app_images/captured_text.png)
+Feature intended to help look up relevant property in an api
