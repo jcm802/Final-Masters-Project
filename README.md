@@ -3,3 +3,6 @@ Property search Android application prototype. Includes sign in, create account,
 # Create Account and Log In
 ![](app_images/create_account.jpg)
 ![](app_images/log_in.jpg)
+# Map and List View
+![](app_images/map.png)
+![](app_images/list.png)
